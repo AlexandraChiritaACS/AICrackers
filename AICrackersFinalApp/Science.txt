@@ -1,0 +1,226 @@
+﻿45  
+1.The basic reaction of burning ethane creates: 
+Carbon dioxide and water - correct 
+Benzene 
+Carbon monoxide and hexane 
+Acetylene and hydrogen 
+2.The noticeable difference between the glucose molecule and fructose one looking only at the formula is: 
+More atoms of H 
+Less atoms of O 
+The glucose is lighter  
+None _ correct 
+3. Hydrolysis is the process of  
+Splitting water into its basic components - correct 
+Lowering the pH level of an acid by adding water  
+Neutralizing an acid  
+Tempering a wild reaction  
+4.The pH scale is used to measure  
+The acid-basic character of a formula _ correct 
+The intensity of a reaction  
+The instability of a molecule  
+The water level in air  
+5.The most abundant element in the universe. 
+Hydrogen _ correct 
+Aluminum  
+Neon  
+Helium 
+6.The diluting process of H2SO4 is  
+Pouring water in the acid  
+Pouring acid in water_ correct 
+Mixing the acid with a base
+None of these above
+7.The other product of obtaining calcium oxide from calcium carbonate is 
+CO2_ correct 
+H2O 
+Isolated calcium  
+Calcium hydroxide  
+8.The rarest forms in which you find oxygen in the atmosphere is 
+[O] correct 
+O2 
+O3 
+There is only one form found in the atmosphere 
+9. Who is credited with the invention of the modern periodic table? 
+Mendel 
+Mendeleev - correct 
+Nobel  
+Lavoisier 
+10.Every organic compound must contain  
+Carbon 
+Carbon and Hydrogen – correct 
+Carbon and Nitrogen  
+Carbon, Hydrogen and Oxygen 
+11.What is the most stable electron configuration for the last orbit of an atom? 
+2 electrons – correct  
+4 electrons  
+8 electrons  
+16 electrons  
+12.The carbonate that was used in medicine during ancient times and is characterized by the correspondent Me:C:O = 16:3:12. The formula is: (Where Me is the metal) 
+FeCO3 
+MgCO3 
+Na2CO3 
+CuCO3 correct 
+13.One of the following ions cannot be formed: 
+F-correct 
+S2- 
+K+ 
+N3- 
+14.By burning 4 moles from an unknown gas there are necessary 3 moles of oxygen, given the fact that the products of the reaction are 2 moles of nitrogen and 6 moles of water the unknown gas was? 
+N2O 
+N2H4 
+NH3 - correct 
+NO 
+15. Strongest acid of the following is: 
+HCl 
+H2SO4 - correct
+HF 
+H2CO3 
+16. Which of the following terms describes the body's ability to maintain its normal state?
+Anabolism
+Catabolism
+Tolerance
+Homeostasis - correct
+17. Which of the following best describes the human body's defense mechanism against environmental bacteria?
+Hair in the nose
+Mucous membranes - correct
+Osteoblasts
+Saliva
+18. Which cells in the blood do not have a nucleus?
+Lymphocyte
+Monocyte
+Erythrocyte - correct
+Basophil
+19. Which of the following is flexible connective tissue that is attached to bones at the joints?
+Adipose
+Cartilage
+Epithelial
+Muscle
+20. Which of the following is the body cavity that contains the pituitary gland?
+Abdominal
+Cranial - correct
+Pleural
+Spinal
+21. Which of the following closes and seals off the lower airway during swallowing?
+Alveoli
+Epiglottis - correct
+Larynx
+Uvula
+22. Which of the following anatomical regions of abdomen lies just distal to the sternum?
+Epigastric - correct
+Hypochondriac
+Hypogastric
+Lumbar
+23. Which of the following terms describes the motion of bending the forearm toward the body?
+Abduction
+Eversion
+Flexion - correct
+Pronation
+24. In which of the following positions does a patient lie face down?
+Dorsal
+Erect
+Lateral
+Prone - correct
+25. If the foot is abducted, it is moved in which direction?
+Inward
+Outward - correct
+Upward
+Downward
+26. The anatomic location of the spinal canal is
+caudal
+dorsal - correct
+frontal
+transverse
+27. Which of the following is a structural, fibrous protein found in the dermis?
+Collagen - correct
+Heparin
+Lipocyte
+Melanin
+28. A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is known as which of the following?
+Closed, greenstick - correct
+Complex, comminuted
+Compound, transverse
+Open, spiral
+29. Which of the following is the large bone found superior to the patella and inferior to the ischium?
+Calcaneus
+Femur - correct
+Symphysis pubis
+Tibia
+30. The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure will be performed on which of the following structures?
+Heel
+Lower leg - correct
+Toes
+Thigh
+31. When light bends as it enters a different medium the process is known as what?
+Refraction
+Reflection
+Transition
+Focus
+32. A magnifying glass is what type of lens?
+Convex
+Concave
+Opaque
+None of these above
+33. Electric resistance is typically measured in what units?
+Ohms
+Volts
+Watts
+Amperes
+34. Metals expand when heated and do what when cooled?
+Contract
+Break
+Bend
+Loosen
+35. What is the first name of the famous scientist who gave us the three basic laws of motion?
+Isaac Newton
+Albert Einstein
+Niels Bohr
+d. Galileo Galilei
+36. Electric power is typically measured in what units?
+Watts
+Horse power
+Volts
+Amperes
+37. What is the first name of the person who Hubble Space Telescope is named after?
+Eddie
+Teddy
+Robert
+Neil
+38. The wire inside an electric bulb is known as the what?
+Filament
+Resistance
+Copper wire
+Light part
+39. Infrared light has a wavelength that is too long or short to be visible for humans?
+Long
+Short
+Medium
+No answer
+40.Two trains are departing from a train station (having the same speed v), between their tracks there is an 60 degree angle, the speed between the A train and a passenger in train B is:
+v sqrt(3)
+v sqrt(7)
+3v
+v
+41. When heating a solution, a scientist detects a temperature increase in the solution during a period of time. Which of the following statements accurately characterizes the solution during this period?
+The solution is at boiling point.
+The solution is undergoing a phase change.
+The velocity of molecules in the solution is increasing. -correct
+The solution’s temperature increase is proportional to its ΔH_{vaporization}
+42. What is the heat energy required to completely vaporize 10 \text{ g}10 g of water beginning at 0°C? (The heat capacity of water is 4.2 J/g⋅K and the ΔH_{vaporization}ΔH Vaporization of water is 2260 \text{ kJ/kg}2260 kJ/kg)
+4.9KJ
+26.8KJ - correct
+228.1KJ
+2126 kJ
+43. Equal amounts of heat are absorbed by 100 \text{ g}100 g samples of various solid metals with differing specific heat values. Which of the following statements is true regarding metals and their specific heat values?
+The metal with the smallest specific heat will undergo the smallest change in temperature.
+The metal with the smallest specific heat will resist melting to a greater degree at its melting point.
+The metal with the smallest specific heat will resist melting to a greater degree at its melting point. - correct
+The metal with the smallest specific heat will resist melting to a greater degree at its melting point.
+44. In a system undergoing adiabatic compression, what are the values of internal energy and heat if work done on the system is 500 J?
+Internal energy is 0J and the heat is 500J
+Internal energy is -500J and the heat is 0J
+Internal energy is 0J and the heat is -500J
+Internal energy is 500J and the heat is 0J – correct
+45. Additional gas is pumped inside a rigid container that stores compressed gas. Which of the following is a true statement about this system?
+Pressure is constant throughout the compression.
+There is no work done on the container. -correct
+The molar concentration of gas is decreasing.
+The volume of the container is decreasing.

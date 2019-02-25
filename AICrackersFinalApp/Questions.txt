@@ -1,0 +1,38 @@
+﻿37
+1.	Use precision machines to build custom metal parts
+2.	Analyze the structure of molecules
+3.	Design a magazine cover
+4.	Paint a portrait
+5.	Learn about computers
+6.	Coordinate a business conference
+7.	Review financial records for accuracy
+8.	Research a new medicine
+9.	Design a greeting card
+10.	Tutor a child with a learning disability
+11.	Learn Programming Languages
+12.	Motivate employees to achieve success
+13.	Use spreadsheets to organize financial data
+14.	Install an alarm system in a building
+15.	Work in a chemistry lab
+16.	Build a web site
+17.	Write a script for a television show
+18.	Counsel a person recovering from drug addiction
+19.	Counsel a person with depression
+20.	Hire and fire employees
+21.	Calculate the cost of an insurance claim
+22.	Build a stone wall
+23.	Analyze soil samples for pollution
+24.	Edit a movie
+25.	Lead a team
+26.	Debug a program?
+27.	Calculate the cost of a construction project
+28.	Help customers fill out loan applications
+29.	Inspect a roof for leaks
+30.	Draw games graphics
+31.	Do laboratory tests to diagnose diseases
+32.	Compose a song
+33.	Write a poem
+34.	Persuade others to my point of view
+35.	Create new algorithms
+36.	Give a speech in front of many people
+37.	Research heat-resistant materials for airplane engines
